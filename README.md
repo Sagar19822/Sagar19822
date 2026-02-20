@@ -1,7 +1,5 @@
-## 👋 Hi, I'm Sagar
+## 👋 Hi, I'm Sagar Thakor
 
-
-**Sagar19822/Sagar19822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
